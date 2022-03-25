@@ -1,0 +1,149 @@
+/*
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
+*/
+
+/***************** 기본 / 한글 *****************/
+@font-face {
+	font-family: 'NanumSquareRound';
+	font-weight: 700;
+	font-display: swap;
+	src: url('NanumSquareRound-Bold.eot');
+    src: url('NanumSquareRound-Bold.eot?#iefix') format("embedded-opentype"), url('NanumSquareRound-Bold.woff') format("woff"), url('NanumSquareRound-Bold.ttf') format("truetype");
+}
+
+@font-face {
+	font-family: 'NanumSquareRound';
+	font-weight: 400;
+	font-display: swap;
+	src: url('NanumSquareRound-Regular.eot');
+    src: url('NanumSquareRound-Regular.eot?#iefix') format("embedded-opentype"), url('NanumSquareRound-Regular.woff') format("woff"), url('NanumSquareRound-Regular.ttf') format("truetype");
+}
+
+@font-face {
+	font-family: 'NanumSquareRound';
+	font-weight: 300;
+	font-display: swap;
+	src: url('NanumSquareRound-Light.eot');
+    src: url('NanumSquareRound-Light.eot?#iefix') format("embedded-opentype"), url('NanumSquareRound-Light.woff') format("woff"), url('NanumSquareRound-Light.ttf') format("truetype");
+}
+
+@font-face {
+	font-family: 'NanumSquareRound';
+	font-weight: 100;
+	font-display: swap;
+	src: url('NanumSquareRound-Thin.eot');
+    src: url('NanumSquareRound-Thin.eot?#iefix') format("embedded-opentype"), url('NanumSquareRound-Thin.woff') format("woff"), url('NanumSquareRound-Thin.ttf') format("truetype");
+}
+
+/***************** 영문 *****************/
+@font-face {
+	font-family: 'NanumSquareRound-EN';
+	font-weight: 700;
+	font-display: swap;
+	src: url('NanumSquareRound-Bold.eot');
+    src: url('NanumSquareRound-Bold.eot?#iefix') format("embedded-opentype"), url('NanumSquareRound-Bold.woff') format("woff"), url('NanumSquareRound-Bold.ttf') format("truetype");
+	unicode-range: U+0041-005A, U+0061-007A;
+}
+
+@font-face {
+	font-family: 'NanumSquareRound-EN';
+	font-weight: 400;
+	font-display: swap;
+	src: url('NanumSquareRound-Regular.eot');
+    src: url('NanumSquareRound-Regular.eot?#iefix') format("embedded-opentype"), url('NanumSquareRound-Regular.woff') format("woff"), url('NanumSquareRound-Regular.ttf') format("truetype");
+	unicode-range: U+0041-005A, U+0061-007A;
+}
+
+@font-face {
+	font-family: 'NanumSquareRound-EN';
+	font-weight: 300;
+	font-display: swap;
+	src: url('NanumSquareRound-Light.eot');
+    src: url('NanumSquareRound-Light.eot?#iefix') format("embedded-opentype"), url('NanumSquareRound-Light.woff') format("woff"), url('NanumSquareRound-Light.ttf') format("truetype");
+	unicode-range: U+0041-005A, U+0061-007A;
+}
+
+@font-face {
+	font-family: 'NanumSquareRound-EN';
+	font-weight: 100;
+	font-display: swap;
+	src: url('NanumSquareRound-Thin.eot');
+    src: url('NanumSquareRound-Thin.eot?#iefix') format("embedded-opentype"), url('NanumSquareRound-Thin.woff') format("woff"), url('NanumSquareRound-Thin.ttf') format("truetype");
+	unicode-range: U+0041-005A, U+0061-007A;
+}
+
+/***************** 숫자 *****************/
+@font-face {
+	font-family: 'NanumSquareRound-NUM';
+	font-weight: 700;
+	font-display: swap;
+	src: url('NanumSquareRound-Bold.eot');
+    src: url('NanumSquareRound-Bold.eot?#iefix') format("embedded-opentype"), url('NanumSquareRound-Bold.woff') format("woff"), url('NanumSquareRound-Bold.ttf') format("truetype");
+	unicode-range: U+0030-0039;
+}
+
+@font-face {
+	font-family: 'NanumSquareRound-NUM';
+	font-weight: 400;
+	font-display: swap;
+	src: url('NanumSquareRound-Regular.eot');
+    src: url('NanumSquareRound-Regular.eot?#iefix') format("embedded-opentype"), url('NanumSquareRound-Regular.woff') format("woff"), url('NanumSquareRound-Regular.ttf') format("truetype");
+	unicode-range: U+0030-0039;
+}
+
+@font-face {
+	font-family: 'NanumSquareRound-NUM';
+	font-weight: 300;
+	font-display: swap;
+	src: url('NanumSquareRound-Light.eot');
+    src: url('NanumSquareRound-Light.eot?#iefix') format("embedded-opentype"), url('NanumSquareRound-Light.woff') format("woff"), url('NanumSquareRound-Light.ttf') format("truetype");
+	unicode-range: U+0030-0039;
+}
+
+@font-face {
+	font-family: 'NanumSquareRound-NUM';
+	font-weight: 100;
+	font-display: swap;
+	src: url('NanumSquareRound-Thin.eot');
+    src: url('NanumSquareRound-Thin.eot?#iefix') format("embedded-opentype"), url('NanumSquareRound-Thin.woff') format("woff"), url('NanumSquareRound-Thin.ttf') format("truetype");
+	unicode-range: U+0030-0039;
+}
+
+/***************** 특수문자 *****************/
+@font-face {
+	font-family: 'NanumSquareRound-CHAR';
+	font-weight: 700;
+	font-display: swap;
+	src: url('NanumSquareRound-Bold.eot');
+    src: url('NanumSquareRound-Bold.eot?#iefix') format("embedded-opentype"), url('NanumSquareRound-Bold.woff') format("woff"), url('NanumSquareRound-Bold.ttf') format("truetype");
+	unicode-range: U+0020-002F, U+003A-0040, U+005B-0060, U+007B-007E;
+}
+
+@font-face {
+	font-family: 'NanumSquareRound-CHAR';
+	font-weight: 400;
+	font-display: swap;
+	src: url('NanumSquareRound-Regular.eot');
+    src: url('NanumSquareRound-Regular.eot?#iefix') format("embedded-opentype"), url('NanumSquareRound-Regular.woff') format("woff"), url('NanumSquareRound-Regular.ttf') format("truetype");
+	unicode-range: U+0020-002F, U+003A-0040, U+005B-0060, U+007B-007E;
+}
+
+@font-face {
+	font-family: 'NanumSquareRound-CHAR';
+	font-weight: 300;
+	font-display: swap;
+	src: url('NanumSquareRound-Light.eot');
+    src: url('NanumSquareRound-Light.eot?#iefix') format("embedded-opentype"), url('NanumSquareRound-Light.woff') format("woff"), url('NanumSquareRound-Light.ttf') format("truetype");
+	unicode-range: U+0020-002F, U+003A-0040, U+005B-0060, U+007B-007E;
+}
+
+@font-face {
+	font-family: 'NanumSquareRound-CHAR';
+	font-weight: 100;
+	font-display: swap;
+	src: url('NanumSquareRound-Thin.eot');
+    src: url('NanumSquareRound-Thin.eot?#iefix') format("embedded-opentype"), url('NanumSquareRound-Thin.woff') format("woff"), url('NanumSquareRound-Thin.ttf') format("truetype");
+	unicode-range: U+0020-002F, U+003A-0040, U+005B-0060, U+007B-007E;
+}
